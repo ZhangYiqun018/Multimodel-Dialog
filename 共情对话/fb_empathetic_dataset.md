@@ -4,4 +4,25 @@
 
 [数据集链接](https://github.com/facebookresearch/EmpatheticDialogues)
 
-数据集简介
+## 数据集简介
+
+conv_id
+
+utterance_idx
+
+context
+
+prompt
+
+speaker_id
+
+utterance
+
+selfeval
+
+tags
+
+## baseline
+
+
+## 评价指标
