@@ -31,12 +31,14 @@ CEM：共识意识的共情回复生成
 
 数据集：
 
-    EmpatheticDialogues
+    facebook: EmpatheticDialogues
 
 [开源地址](https://github.com/Sahandfer/CEM)
 
 ### 结论
-
+主要贡献：
++ 新数据集，25000个对话
++ 使用这个数据集来提供检索候选者或微调对话模型，可以得到更好的共情回复
 ## 精读
 
 ### 模型
