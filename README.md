@@ -2,9 +2,9 @@
 
 此仓库记录阅读/寻找**多模态对话**相关的论文
 
-- [说明](#说明)
+
 - [多模态数据集](#多模态数据集)
-- [vision-language pretrain model](#vision-language-pretrain-model)
+- [多模态预训练模型](#多模态预训练模型)
 - [共情对话](#共情对话)
 
 # 多模态数据集
