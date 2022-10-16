@@ -2,7 +2,6 @@
 
 此仓库记录阅读/寻找**多模态对话**相关的论文
 
-
 - [多模态数据集](#多模态数据集)
 - [多模态预训练模型](#多模态预训练模型)
 - [共情对话](#共情对话)
@@ -16,10 +15,10 @@
 
 # 多模态预训练模型
 
-| 论文名称                                                                                                           | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构 |
-| ------------------------------------------------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | -------- |
-| [Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a) | ✅       | 2021 | ICML      | A       | OpenAI   |
-
+| 论文名称                                                                                                                       | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构 |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | -------- |
+| [Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a)             | ✅       | 2021 | ICML      | A       | OpenAI   |
+| [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://proceedings.mlr.press/v139/kim21k.html) | ✅       | 2021 | ICML      | A       | NAVER AI |
 
 # 共情对话
 
