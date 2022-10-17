@@ -12,13 +12,21 @@
 | ------------------------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | --------- |
 | [Openvidial: A large-scale, open-domain dialogue dataset with visual contexts](https://arxiv.org/abs/2012.15015) | ❌       | 2021 | arXiv     | --      | ShannonAI |
 |                                                                                                               |          |      |           |         |           |
+|                                                                                                               |          |      |           |         |           |
 
 # 多模态预训练模型
 
-| 论文名称                                                                                                                       | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构 |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | -------- |
-| [Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a)             | ✅       | 2021 | ICML      | A       | OpenAI   |
-| [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://proceedings.mlr.press/v139/kim21k.html) | ✅       | 2021 | ICML      | A       | NAVER AI |
+| 论文名称                                                                                                                       | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 |
+| ------------------------------------------------------------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | ------------------------ |
+| [Learning Transferable Visual Models From Natural Language Supervision](http://proceedings.mlr.press/v139/radford21a)             | ✅       | 2021 | ICML      | A       | OpenAI                   |
+| [ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision](https://proceedings.mlr.press/v139/kim21k.html) | ✅       | 2021 | ICML      | A       | NAVER AI                 |
+| [Visualbert: A simple and performant baseline for vision and language](https://arxiv.org/abs/1908.03557)                          | ✅       | 2019 | arXiv     | --      | University of California |
+| [FILIP: Fine-grained Interactive Language-Image Pre-Training]()                                                                   | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab   |
+|                                                                                                                                |          |      |           |         |                          |
+
+
+
+
 
 # 共情对话
 
