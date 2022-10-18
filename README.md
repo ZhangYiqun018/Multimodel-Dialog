@@ -9,12 +9,14 @@
 
 # 多模态数据集
 
-| 论文名称                                                                                    | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构  | 概述                                       |
-| ------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | --------- | ------------------------------------------ |
-| [Openvidial](https://arxiv.org/abs/2012.15015), [OpenVidial2.0](https://arxiv.org/abs/2109.12761) | ✅       | 2021 | arXiv     | --      | ShannonAI | 多模态对话数据集；电视剧抽帧；提供图片特征 |
-|                                                                                             |          |      |           |         |           |                                            |
-|                                                                                             |          |      |           |         |           |                                            |
-|                                                                                             |          |      |           |         |           |                                            |
+| 论文名称                                                                                    | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构          | 概述                                        |
+| ------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | ----------------- | ------------------------------------------- |
+| [Openvidial](https://arxiv.org/abs/2012.15015), [OpenVidial2.0](https://arxiv.org/abs/2109.12761) | ✅       | 2021 | arXiv     | --      | ShannonAI         | 多模态对话数据集；电视剧抽帧；提供图片特征  |
+| [SER30K](https://dl.acm.org/doi/abs/10.1145/3503161.3548407)                                   | ❌       | 2022 | ACM       |         | Nankai University | meme梗图和sticker的数据集，表情包情感分类器 |
+| [MMChat](https://arxiv.org/abs/2108.07154)                                                     | ❌       | 2021 | arXiv     | --      | Alibaba           |                                             |
+|                                                                                             |          |      |           |         |                   |                                             |
+
+
 
 # 多模态预训练模型
 
@@ -23,7 +25,7 @@
 | [CLIP](http://proceedings.mlr.press/v139/radford21a)   | ✅       | 2021 | ICML      | A       | OpenAI                   | 基于对比学习的图文检索预训练模；双流 |
 | [ViLT](https://proceedings.mlr.press/v139/kim21k.html) | ✅       | 2021 | ICML      | A       | NAVER AI                 |                                      |
 | [Visualbert](https://arxiv.org/abs/1908.03557)         | ✅       | 2019 | arXiv     | --      | University of California |                                      |
-| [FILIP]()                                              | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab   |                                      |
+| [FILIP]()                                              | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab   | 比CLIP更细粒度；双流                 |
 |                                                     |          |      |           |         |                          |                                      |
 
 # 多模态生成
