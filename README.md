@@ -6,6 +6,7 @@
 - [多模态预训练模型](#多模态预训练模型)
 - [多模态生成](#多模态生成)
 - [共情对话](#共情对话)
+- [经典论文](#经典论文)
 
 # 多模态数据集
 
@@ -25,7 +26,7 @@
 | [Visual-Bert](https://arxiv.org/abs/1908.03557)                                                                                      | ✅       | 2019 | arXiv     | --      | University of California        | 基于transformer的多模态预训练模型；单流          |
 | [FILIP]()                                                                                                                            | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab          | 比CLIP更细粒度；双流                             |
 | [ALIGN](http://proceedings.mlr.press/v139/jia21b.html)                                                                               | ✅       | 2021 | PMLR      | A       | Google Research                 | 相比于CLIP运用了更大规模、噪声更多的数据集；双流 |
-| [VilBert（visual-and-language Bert）](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) | ❌       | 2019 | NeurlPS   | A       | Georgia Institute of Technology | 早期的视觉-语言跨模态预训练模型                  |
+| [VilBert（visual-and-language Bert）](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) | ❌       | 2019 | NeurlPS   | A       | Georgia Institute of Technology | 早期的视觉-语言跨模态预训练模型；双流            |
 
 
 # 多模态生成
