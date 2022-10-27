@@ -18,13 +18,15 @@
 
 # 多模态预训练模型
 
-| 论文名称(简称)                                      | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 | 概述                                             |
-| --------------------------------------------------- | -------- | ---- | --------- | ------- | ------------------------ | ------------------------------------------------ |
-| [CLIP](http://proceedings.mlr.press/v139/radford21a)   | ✅       | 2021 | ICML      | A       | OpenAI                   | 基于对比学习的图文检索预训练模；双流             |
-| [ViLT](https://proceedings.mlr.press/v139/kim21k.html) | ✅       | 2021 | ICML      | A       | NAVER AI                 |                                                  |
-| [Visual-Bert](https://arxiv.org/abs/1908.03557)        | ✅       | 2019 | arXiv     | --      | University of California | 基于transformer的多模态预训练模型；单流          |
-| [FILIP]()                                              | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab   | 比CLIP更细粒度；双流                             |
-| [ALIGN](http://proceedings.mlr.press/v139/jia21b.html) | ✅       | 2021 | PMLR      | A       | Google Research          | 相比于CLIP运用了更大规模、噪声更多的数据集；双流 |
+| 论文名称(简称)                                                                                                                    | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                        | 概述                                             |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | ------------------------------- | ------------------------------------------------ |
+| [CLIP](http://proceedings.mlr.press/v139/radford21a)                                                                                 | ✅       | 2021 | ICML      | A       | OpenAI                          | 基于对比学习的图文检索预训练模；双流             |
+| [ViLT](https://proceedings.mlr.press/v139/kim21k.html)                                                                               | ✅       | 2021 | ICML      | A       | NAVER AI                        |                                                  |
+| [Visual-Bert](https://arxiv.org/abs/1908.03557)                                                                                      | ✅       | 2019 | arXiv     | --      | University of California        | 基于transformer的多模态预训练模型；单流          |
+| [FILIP]()                                                                                                                            | ✅       | 2021 | arXiv     | --      | Huawei Noah’s Ark Lab          | 比CLIP更细粒度；双流                             |
+| [ALIGN](http://proceedings.mlr.press/v139/jia21b.html)                                                                               | ✅       | 2021 | PMLR      | A       | Google Research                 | 相比于CLIP运用了更大规模、噪声更多的数据集；双流 |
+| [VilBert（visual-and-language Bert）](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) | ❌       | 2019 | NeurlPS   | A       | Georgia Institute of Technology | 早期的视觉-语言跨模态预训练模型                  |
+
 
 # 多模态生成
 
