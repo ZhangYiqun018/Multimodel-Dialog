@@ -28,13 +28,12 @@
 | [ALIGN](http://proceedings.mlr.press/v139/jia21b.html)                                                                               | ✅       | 2021 | PMLR      | A       | Google Research                 | 相比于CLIP运用了更大规模、噪声更多的数据集；双流 |
 | [VilBert（visual-and-language Bert）](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) | ❌       | 2019 | NeurlPS   | A       | Georgia Institute of Technology | 早期的视觉-语言跨模态预训练模型；双流            |
 
-
 # 多模态生成
 
-| 论文名称(简称)                           | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 | 概述                                  |
-| ---------------------------------------- | -------- | ---- | --------- | ------- | ------------------------ | ------------------------------------- |
-| [memeBot](https://arxiv.org/abs/2004.14571) | ❌       | 2020 | arXiv     | --      | Arizona State University | 以图片检索+文字生成的方式产生meme梗图 |
-|                                          |          |      |           |         |                          |                                       |
+| 论文名称(简称)                                                           | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 | 概述                                  |
+| ------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | ------------------------ | ------------------------------------- |
+| [memeBot](https://arxiv.org/abs/2004.14571)                                 | ❌       | 2020 | arXiv     | --      | Arizona State University | 以图片检索+文字生成的方式产生meme梗图 |
+| [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) | ❌       | 2022 | ACL       | A       | Microsoft STC Asia       |                                       |
 
 # 共情对话
 
