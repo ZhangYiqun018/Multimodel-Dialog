@@ -33,7 +33,7 @@
 | 论文名称(简称)                                                           | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 | 概述                                  |
 | ------------------------------------------------------------------------ | -------- | ---- | --------- | ------- | ------------------------ | ------------------------------------- |
 | [memeBot](https://arxiv.org/abs/2004.14571)                                 | ❌       | 2020 | arXiv     | --      | Arizona State University | 以图片检索+文字生成的方式产生meme梗图 |
-| [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) | ❌       | 2022 | ACL       | A       | Microsoft STC Asia       |                                       |
+| [Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) | ✅       | 2022 | ACL       | A       | Microsoft STC Asia       |                                       |
 
 # 共情对话
 
