@@ -36,6 +36,7 @@
 | [memeBot](https://arxiv.org/abs/2004.14571)                                         | ✅       | 2020 | arXiv     | --      | Arizona State University | 以文字生成+图片检索（梗图被表示为ocr+title）的方式进行meme梗图回复，本文是DSTC-10MOD任务的报告 |
 | [(Divter)Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) | ✅       | 2022 | ACL       | A       | Microsoft STC Asia       | Divter，sota的多模态（文本+图像）对话生成                                                      |
 | Zero-Shot Text-to-Image Generation                                               | ❌       | 2021 | ICML      | A       |                          |                                                                                                |
+| GODEL                                                                            | ❌       | 2022 | arXiv     | --      | Microsoft                |                                                                                                |
 
 # 共情对话
 
