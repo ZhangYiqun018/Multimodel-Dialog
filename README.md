@@ -10,13 +10,13 @@
 
 # 多模态数据集
 
-| 论文名称(简称)                                                                              | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构          | 概述                                        |
-| ------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | ----------------- | ------------------------------------------- |
-| [Openvidial](https://arxiv.org/abs/2012.15015), [OpenVidial2.0](https://arxiv.org/abs/2109.12761) | ✅       | 2021 | arXiv     | --      | ShannonAI         | 多模态对话数据集；电视剧抽帧；提供图片特征  |
-| [SER30K](https://dl.acm.org/doi/abs/10.1145/3503161.3548407)                                   | ❌       | 2022 | ACM MM    | A       | Nankai University | meme梗图和sticker的数据集，表情包情感分类器 |
-| [MMChat](https://arxiv.org/abs/2108.07154)                                                     | ❌       | 2021 | arXiv     | --      | Alibaba           |                                             |
-| [MMDialog](https://arxiv.org/abs/2211.05719)                                                   | ✅       | 2022 | arXiv     | --      | microsoft         | 超大规模多轮对话图文多模态数据集            |
-| [PhotoChat](https://arxiv.org/abs/2108.01453)                                                  | ✅       | 2021 | arXiv     | --      | Google research   | 真实照片-对话多模态数据集（小规模）         |
+| 论文名称(简称)                                                                              | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构          | 概述                                                                        |
+| ------------------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | ----------------- | --------------------------------------------------------------------------- |
+| [Openvidial](https://arxiv.org/abs/2012.15015), [OpenVidial2.0](https://arxiv.org/abs/2109.12761) | ✅       | 2021 | arXiv     | --      | ShannonAI         | 多模态对话数据集；电视剧抽帧；提供图片特征                                  |
+| [SER30K](https://dl.acm.org/doi/abs/10.1145/3503161.3548407)                                   | ❌       | 2022 | ACM MM    | A       | Nankai University | meme梗图和sticker的数据集，表情包情感分类器                                 |
+| [MMChat](https://arxiv.org/abs/2108.07154)                                                     | ✅       | 2021 | arXiv     | --      | Alibaba           | 一个中文多模态对话数据集，benchmark采用了注意力路由机制来解决图像稀疏性问题 |
+| [MMDialog](https://arxiv.org/abs/2211.05719)                                                   | ✅       | 2022 | arXiv     | --      | microsoft         | 超大规模多轮对话图文多模态数据集                                            |
+| [PhotoChat](https://arxiv.org/abs/2108.01453)                                                  | ✅       | 2021 | arXiv     | --      | Google research   | 真实照片-对话多模态数据集（小规模）                                         |
 
 # 多模态预训练模型
 
