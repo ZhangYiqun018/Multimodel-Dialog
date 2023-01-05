@@ -33,10 +33,11 @@
 
 | 论文名称(简称)                                                                   | 笔记状态 | 年份 | 会议/期刊 | CCF级别 | 研究机构                 | 概述                                                                                           |
 | -------------------------------------------------------------------------------- | -------- | ---- | --------- | ------- | ------------------------ | ---------------------------------------------------------------------------------------------- |
-| [memeBot](https://arxiv.org/abs/2004.14571)                                         | ✅       | 2020 | arXiv     | --      | Arizona State University | 以文字生成+图片检索（梗图被表示为ocr+title）的方式进行meme梗图回复，本文是DSTC-10MOD任务的报告 |
+| [memeBot](https://arxiv.org/abs/2004.14571)                                         | ❌       | 2020 | arXiv     | --      | Arizona State University | 以文字生成+图片检索（梗图被表示为ocr+title）的方式进行meme梗图回复，本文是DSTC-10MOD任务的报告 |
 | [(Divter)Multimodal Dialogue Response Generation](https://arxiv.org/abs/2110.08515) | ✅       | 2022 | ACL       | A       | Microsoft STC Asia       | Divter，sota的多模态（文本+图像）对话生成                                                      |
 | Zero-Shot Text-to-Image Generation                                               | ❌       | 2021 | ICML      | A       |                          |                                                                                                |
 | GODEL                                                                            | ❌       | 2022 | arXiv     | --      | Microsoft                |                                                                                                |
+| MOD-Bot                                                                          | ✅       | 2022 | arXiv     | --      | Baidu                    | DSTC-10 MOD任务的任务报告                                                                      |
 
 # 共情对话
 
